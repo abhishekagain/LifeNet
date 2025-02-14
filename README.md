@@ -54,9 +54,6 @@ PORT=5000
 ## 🛠️ Installation & Setup
 
 1. Clone the repository
-```bash
-git clone https://github.com/your-repo/lifenet.git
-```
 
 2. Install dependencies
 ```bash
@@ -117,11 +114,6 @@ project/
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🌐 Links
-- [Live Demo](https://lifenet.example.com)
-- [Documentation](https://docs.lifenet.example.com)
-- [API Documentation](https://api.lifenet.example.com)
-
 ## 💡 Support
 For technical support or queries:
 1. Check the documentation
@@ -129,4 +121,4 @@ For technical support or queries:
 3. Contact the development team
 
 ---
-© 2024 RustedCoders. All Rights Reserved.
+© 2025 RustedCoders. All Rights Reserved.
