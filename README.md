@@ -57,8 +57,9 @@ PORT=5000
 
 2. Install dependencies
 ```bash
-npm install
+npm install 
 ```
+check the version is it is pre installed
 
 3. Set up environment variables
 - Create a `.env` file in the root directory
